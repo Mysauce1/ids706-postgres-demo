@@ -2,7 +2,8 @@
 
 # 5. Tri out some queries to make sure all is working properly
 There are the queries and results for part 5 of the demo:
-<img width="4" height="3" alt="Screenshot 2025-10-02 201820" src="https://github.com/user-attachments/assets/49e9dd32-7f45-4328-8452-6abe1b9bc583" />
+<img width="2139" height="896" alt="Screenshot 2025-10-02 201731" src="https://github.com/user-attachments/assets/35a3fd1c-369f-469b-bfd6-06545bfd7071" />
+
 
 
 # 6. More SQL Practice
